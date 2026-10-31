@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
+breast_cancer_eda/
+└── Breast Cancer/
+    ├── app.py
+    ├── Breast_Cancer.csv
+    └── requirements.txt
